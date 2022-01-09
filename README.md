@@ -3,7 +3,7 @@
 ### Set Up
 ``cd flask_min``
 ### Create Virtualenv with name venv (Linux/Windows)
-``python -m venv vene``
+``python -m venv venv``
 #### Activate Virtualenv
 #### Linux
 ``source venv/bin/activate``
