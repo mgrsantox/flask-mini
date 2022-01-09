@@ -37,8 +37,4 @@ class DevelopmentConfig(Config):
 class TestingConfig(Config):
     TESTING = True
 
-    # DB_NAME = "test_db"
-    # DB_USERNAME = "admin"
-    # DB_PASSWORD = "admin@123"
-
     SESSION_COOKIE_SECURE = False
