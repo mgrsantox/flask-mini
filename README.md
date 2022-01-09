@@ -1,7 +1,7 @@
 ## Flask Mini Project
 
 ### Set Up
-``cd flask_min``
+``cd flask_mini``
 ### Create Virtualenv with name venv (Linux/Windows)
 ``python -m venv venv``
 #### Activate Virtualenv
